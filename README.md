@@ -13,3 +13,7 @@
 
 - `auto_type_from_clipboard.py`: 主脚本，使用 `pyautogui` 模拟键盘输入
 
+
+## License
+
+MIT，见 [LICENSE](LICENSE)。
